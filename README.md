@@ -26,5 +26,4 @@ Link to code fellows [Code fellows 102](https://pages.github.com/]https://github
 
 ![cover lette4r photo](https://user-images.githubusercontent.com/98654643/207138101-bdf4313a-e00d-4426-a119-6502801589c0.jpeg)
 
-
-Here is a simple footnote[^1]
+footnote [^1]

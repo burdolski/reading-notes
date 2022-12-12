@@ -6,6 +6,8 @@ Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 
 ## Reminders to stay in growth mindset
 
+Growth minset is continously getting better and achieving something better each day, growing each day becoming better.
+
 1. Stay positive
 2. I will learn it eventually
 3. Don't give up

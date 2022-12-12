@@ -21,3 +21,5 @@ Link to code fellows [Code fellows 102]([https://pages.github.com/](https://gith
 - mark with x when done
 
 :grinning:
+
+Here is a simple footnote[^1]

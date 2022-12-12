@@ -22,4 +22,6 @@ Link to code fellows [Code fellows 102](https://pages.github.com/]https://github
 
 :grinning:
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Here is a simple footnote[^1]

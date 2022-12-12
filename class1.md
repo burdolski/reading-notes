@@ -24,4 +24,4 @@ Make a section in your notes titled ## Things I want to know more about, and any
 If you utilize any content directly from the reading sources, be sure to identify what you are quoting, and cite the source.
 
 
-## Things
+## Things I want to know more about

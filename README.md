@@ -2,7 +2,7 @@
 
 What growth minset means to me:
 
-## Three things
+## Reminders to stay in growth mindset
 
 1.
 2.

@@ -19,6 +19,7 @@ Link to code fellows [Code fellows 102](https://pages.github.com/]https://github
 - [ ] Complete 5 steps
 
 - mark with x when done
+- [x] Complete 5 steps
 
 :grinning:
 

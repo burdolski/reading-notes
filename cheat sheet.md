@@ -24,13 +24,17 @@ Basic Navigation
 > - A lot of commands on the terminal will rely on you being in the right location. As you're moving around, it can be easy to lose track of where you are at.  
 > - ls is short list current location
 > - pwd listing of current location
+> - cd change directoy
 > - A path is a means to get to a particular file or directory on the system.
 > - 2 types of paths we can use, absolute and relative.
    
 About files
 -
 [**Files**](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-
+> - Case sensitive
+> - 'Two capital' letters need qoutes or a \
+> - click tab to go to directory
+> - la -a directory of hidden files
 
 ## Things I want to know more about
 

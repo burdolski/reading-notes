@@ -3,13 +3,13 @@ Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/main/README.md)
 # class 1 reading assignment
 
-1. Mark down
+1. Mark down is alot like HTML in a sense it's a word editor
 
-2. Command prompt
+2. Command prompt like pwd, ls, is used in terminal to create directories and navigate so far
 
-3. HTML
+3. HTML mark up language used to structure a page 
 
-4. VS CODE
+4. VS CODE code editor used for all languages
 
 
 Read for understanding the assigned resources for this class and watch any assigned videos.
@@ -25,3 +25,4 @@ If you utilize any content directly from the reading sources, be sure to identif
 
 
 ## Things I want to know more about
+I have alot to learn and need to know alot, I supose I want to know more about everything and how it works together with vs code, git and everything we will go over this week.

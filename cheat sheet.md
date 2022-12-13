@@ -4,6 +4,10 @@
 
 Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 
+Link to [Syntax cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
+Link to [Git hub syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/main/README.md)
  
 The Command line
@@ -15,7 +19,7 @@ The Command line
 
 Basic Navigation
 -
-
+> - A lot of commands on the terminal will rely on you being in the right location. As you're moving around, it can be easy to lose track of where you are at. Make use of this command often so as to remind yourself where you presently ar 
 
 About files
 -

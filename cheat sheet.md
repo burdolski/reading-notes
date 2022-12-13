@@ -8,13 +8,17 @@ reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/ma
  
 The Command line
 -
-ikyuiyuii
+>A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+>there must be a space between the command and the first command line argument 
+
+
 
 Basic Navigation
 -
+
+
 About files
 -
-
 
 
 

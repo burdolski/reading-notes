@@ -4,7 +4,7 @@ What growth minset means to me:
 
 Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 
-[cheat sheet](https://github.com/burdolski/reading-notes/edit/main/cheat%20sheet.md)
+[cheat sheet](https://github.com/burdolski/reading-notes/blob/main/cheat%20sheet.md)
 
 ## Reminders to stay in growth mindset
 

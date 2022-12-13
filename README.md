@@ -11,4 +11,4 @@ Link to [cheat sheet](https://github.com/burdolski/reading-notes/blob/main/cheat
 
 Link to [Code 102 notes](https://github.com/burdolski/Code-102-Reading-notes)
 
-Link to [Code 201 notes](https://github.com/burdolski/reading-notes/blob/main/201%20notes.md)
+Link to [Code 201 notes](https://github.com/burdolski/Code-201)

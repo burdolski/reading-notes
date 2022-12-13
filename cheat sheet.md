@@ -12,6 +12,7 @@ reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/ma
  
 The Command line
 -
+[**Command line**](https://ryanstutorials.net/linuxtutorial/commandline.php)
 > - A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 > - There must be a space between the command and the first command line argument 
 
@@ -19,8 +20,11 @@ The Command line
 
 Basic Navigation
 -
-> - A lot of commands on the terminal will rely on you being in the right location. As you're moving around, it can be easy to lose track of where you are at. Make use of this command often so as to remind yourself where you presently ar 
-
+[**Basic Navigation**](https://ryanstutorials.net/linuxtutorial/navigation.php)
+> - A lot of commands on the terminal will rely on you being in the right location. As you're moving around, it can be easy to lose track of where you are at.  
+> - ls is short list current location
+> - pwd listing of current location
+> -    
 About files
 -
 

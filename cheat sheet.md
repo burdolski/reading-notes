@@ -5,7 +5,13 @@
 Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 
 reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/main/README.md)
-
+ 
+The Command line
+-
+Basic Navigation
+-
+About files
+-
 
 
 

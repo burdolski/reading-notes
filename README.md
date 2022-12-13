@@ -3,7 +3,7 @@
 Website is for Code Fellows 102 and 201
 
 
-Table of contents:
+##Table of contents:
 
 Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 

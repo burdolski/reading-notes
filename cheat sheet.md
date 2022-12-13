@@ -8,6 +8,7 @@ reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/ma
  
 The Command line
 -
+hgigigigiiugigi
 Basic Navigation
 -
 About files

@@ -1,6 +1,10 @@
 Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 
 reading-notes [reading-notes](https://github.com/burdolski/reading-notes/blob/main/README.md)
+
+[basic syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[basic syntax 2](https://www.markdownguide.org/basic-syntax/)
 # class 1 reading assignment
 
 1. Mark down is alot like HTML in a sense it's a word editor

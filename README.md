@@ -1,5 +1,7 @@
 # Brice Burdolski
 
+Website is for Code Fellows 102 and 201
+
 
 Link to [my github portfolio](https://github.com/burdolski/reading-notes)
 
